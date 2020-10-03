@@ -1,0 +1,17 @@
+{
+	"name": "edixon-alberto/connection",
+	"description": "Examples basic to create connections in database",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Edixon Piña",
+			"email": "edixonalbertto@gmail.com",
+			"homepage": "https://www.edixonalberto.com"
+		}
+	],
+	"minimum-stability": "beta",
+	"require": {},
+	"require-dev": {
+		"vlucas/phpdotenv": "^5.2"
+	}
+}
